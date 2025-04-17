@@ -53,7 +53,7 @@
 ---
 
 ### **🔗 Ссылки**  
-🌐 **GitHub:** [https://github.com/ваш-логин/marvel-characters-api](https://github.com/ваш-логин/marvel-characters-api](https://dobromilov.github.io/marvel-characters-api/)  
+🌐 **GitHub:**[ Демонстрация сайта  ](https://dobromilov.github.io/marvel-characters-api/)
 🛠 **API:** [https://jsfree-les-3-api.onrender.com/characters](https://jsfree-les-3-api.onrender.com/characters)  
 
 ---
